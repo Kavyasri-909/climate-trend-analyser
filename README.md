@@ -98,24 +98,3 @@ Add climate forecasting using ML models
 Detect temperature anomalies over time
 Add region-wise filtering and maps
 Deploy dashboard on cloud (Streamlit Cloud / Render)
-👤 Author
-
-Kavya Sri
-
-Data Science & Analytics Enthusiast
-Exploring real-world AI + Data projects
-📜 License
-
-This project is open-source and available for learning purposes.
-
-⭐ If you like this project, consider giving it a star on GitHub!
-
-
----
-
-If you want next upgrade, I can:
-- make this README **more “FAANG-level” impressive**
-- or add **badges + screenshots + GitHub profile optimization**
-- or help you turn this into a **top 1% portfolio project presentation**
-
-Just tell me.
